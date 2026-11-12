@@ -96,7 +96,7 @@ During Week 2 of my Cybersecurity & Ethical Hacking internship, I completed prac
 
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-[![whois networkwalks.com](screenshots/1_whois.png)](screenshots/1_whois.png)
+[![whois networkwalks.com] (https://github.com/niharginiya/W2-Footprinting-Network-Scanning/blob/main/01_whois.png)
 
 [![nslookup networkwalks.com](screenshots/2_nslookup_a.png)](screenshots/2_nslookup_a.png)
 
