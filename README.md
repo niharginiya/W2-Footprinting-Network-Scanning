@@ -98,36 +98,48 @@ During Week 2 of my Cybersecurity & Ethical Hacking internship, I completed prac
 
 ![01 whois](Screenshots/01_whois.png)
 
-![nslookup networkwalks](Screenshots/02_nslookup_a.png)
+![02 nslookup a](Screenshots/02_nslookup_a.png)
 
-![nslookup type NS](Screenshots/03_nslookup_ns.png)
+![03 nslookup ns](Screenshots/03_nslookup_ns.png)
 
-[![nslookup -type=MX](screenshots/4_nslookup_mx.png)](screenshots/4_nslookup_mx.png)
+![04 nslookup mx](Screenshots/04_nslookup_mx.png)
 
-[![nslookup -type=TXT](screenshots/5_nslookup_txt.png)](screenshots/5_nslookup_txt.png)
+![05 nslookup txt](Screenshots/05_nslookup_txt.png)
 
-[![whatweb networkwalks.com](screenshots/6_whatweb.png)](screenshots/6_whatweb.png)
+![06 whatweb](Screenshots/06_whatweb.png)
 
-[![curl -I https://networkwalks.com](screenshots/7_curl.png)](screenshots/7_curl.png)
+![07 curl](Screenshots/07_curl.png)
 
-[![wafw00f https://networkwalks.com](screenshots/8_wafw00f.png)](screenshots/8_wafw00f.png)
+![08 wafw00f](Screenshots/08_wafw00f.png)
 
-[![dnsrecon -d networkwalks.com -t std](screenshots/9_dnsrecon.png)](screenshots/9_dnsrecon.png)
+![09 dnsrecon](Screenshots/09_dnsrecon.png)
 
-[![nmap -sn 127.0.0.1](screenshots/10_nmap_ping_scan.png)](screenshots/10_nmap_ping_scan.png)
+![10 nmap ping scan](Screenshots/10_nmap_ping_scan.png)
 
-[![Zenmap Ping scan](screenshots/11_zenmap_ping_scan.png)](screenshots/11_zenmap_ping_scan.png)
+![11 zenmap ping scan](Screenshots/11_zenmap_ping_scan.png)
 
-[![sudo nmap -sV 127.0.0.1](screenshots/12_nmap_sV.png)](screenshots/12_nmap_sV.png)
+![12 nmap sV](Screenshots/12_nmap_sV.png)
 
-[![sudo nmap -A 127.0.0.1](screenshots/13_nmap_A.png)](screenshots/13_nmap_A.png)
+![13 nmap A](Screenshots/13_nmap_A.png)
 
-[![Zenmap Intense scan - Nmap Output](screenshots/14_zenmap_intense_output.png)](screenshots/14_zenmap_intense_output.png)
+![14 zenmap intense output](Screenshots/14_zenmap_intense_output.png)
 
-[![Zenmap - Ports / Hosts](screenshots/15_zenmap_ports_hosts.png)](screenshots/15_zenmap_ports_hosts.png)
+![15 zenmap ports hosts](Screenshots/15_zenmap_ports_hosts.png)
 
-[![Zenmap - Host Details](screenshots/16_zenmap_host_details.png)](screenshots/16_zenmap_host_details.png)
+![16 zenmap host details](Screenshots/16_zenmap_host_details.png)
 
-[![Zenmap - Topology](screenshots/17_zenmap_topology.png)](screenshots/17_zenmap_topology.png)
+![17 zenmap topology](Screenshots/17_zenmap_topology.png)
+
+## 👤 Author
+
+Nihar Giniya
+
+LinkedIn: https://www.linkedin.com/in/nihar-giniya-603b3a32b/
+
+## 📌 Project Information
+
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: Footprinting-Network-Scanning | Repository: GitHub1
+
+---
 
 <p align="center">✨ <b>End of Report</b> ✨</p>
