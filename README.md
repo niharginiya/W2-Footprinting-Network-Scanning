@@ -96,11 +96,11 @@ During Week 2 of my Cybersecurity & Ethical Hacking internship, I completed prac
 
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-whois networkwalks.com (Screenshots/01_whois.png)
+![01 whois](Screenshots/01_whois.png)
 
-[![nslookup networkwalks.com](screenshots/2_nslookup_a.png)](screenshots/2_nslookup_a.png)
+![nslookup networkwalks](Screenshots/02_nslookup_a.png)
 
-[![nslookup -type=NS](screenshots/3_nslookup_ns.png)](screenshots/3_nslookup_ns.png)
+![nslookup type NS](Screenshots/03_nslookup_ns.png)
 
 [![nslookup -type=MX](screenshots/4_nslookup_mx.png)](screenshots/4_nslookup_mx.png)
 
